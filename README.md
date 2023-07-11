@@ -1,2 +1,2 @@
 # entrepot-distant
-Création du dépot
+Modification éffectuée
